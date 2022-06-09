@@ -1,0 +1,15 @@
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+D:\programming\University\3\2\crypto\2lab\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll

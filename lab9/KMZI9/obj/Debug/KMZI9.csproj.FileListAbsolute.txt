@@ -1,0 +1,45 @@
+E:\Program Files\KMZI\KMZI9\KMZI9\bin\Debug\KMZI9.exe.config
+E:\Program Files\KMZI\KMZI9\KMZI9\bin\Debug\KMZI9.exe
+E:\Program Files\KMZI\KMZI9\KMZI9\bin\Debug\KMZI9.pdb
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.csprojAssemblyReference.cache
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\MainWindow.g.cs
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\App.g.cs
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9_MarkupCompile.cache
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9_MarkupCompile.lref
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\MainWindow.baml
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.g.resources
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.Properties.Resources.resources
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.csproj.GenerateResource.cache
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.csproj.CoreCompileInputs.cache
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.exe
+E:\Program Files\KMZI\KMZI9\KMZI9\obj\Debug\KMZI9.pdb
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\bin\Debug\KMZI9.exe.config
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\bin\Debug\KMZI9.exe
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\bin\Debug\KMZI9.pdb
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\MainWindow.g.cs
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\App.g.cs
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9_MarkupCompile.cache
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9_MarkupCompile.lref
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\MainWindow.baml
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.g.resources
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.Properties.Resources.resources
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.csproj.GenerateResource.cache
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.exe
+F:\6 семестр\КМЗИ\лабораторные\KMZI9\KMZI9\obj\Debug\KMZI9.pdb
+D:\programming\university\3\2\crypto\lab9\KMZI9\bin\Debug\KMZI9.exe.config
+D:\programming\university\3\2\crypto\lab9\KMZI9\bin\Debug\KMZI9.exe
+D:\programming\university\3\2\crypto\lab9\KMZI9\bin\Debug\KMZI9.pdb
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.csproj.AssemblyReference.cache
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.csproj.SuggestedBindingRedirects.cache
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\MainWindow.g.cs
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\App.g.cs
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9_MarkupCompile.cache
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9_MarkupCompile.lref
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\MainWindow.baml
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.g.resources
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.Properties.Resources.resources
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.csproj.GenerateResource.cache
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.csproj.CoreCompileInputs.cache
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.exe
+D:\programming\university\3\2\crypto\lab9\KMZI9\obj\Debug\KMZI9.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ppx4wJ5CPafH6cKnYC1e6nuVkPt3eYYTHuTSHxzTeoZoOWkrX7TSXMVIW6kVg3EReRIliYOClIGJhVQgg55jUw==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\university\\3\\2\\crypto\\Lab5\\Lab5_2\\Lab5_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aspera\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aspera\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\aspera\\.nuget\\packages\\syncfusion.compression.net.core\\18.1.0.42\\syncfusion.compression.net.core.18.1.0.42.nupkg.sha512",
+    "C:\\Users\\aspera\\.nuget\\packages\\syncfusion.licensing\\18.1.0.42\\syncfusion.licensing.18.1.0.42.nupkg.sha512",
+    "C:\\Users\\aspera\\.nuget\\packages\\syncfusion.xlsio.net.core\\18.1.0.42\\syncfusion.xlsio.net.core.18.1.0.42.nupkg.sha512"
+  ],
+  "logs": []
+}
